@@ -1,1 +1,1 @@
-web: gunicorn securite.wsgi
+web: gunicorn securite.wsgi:application
